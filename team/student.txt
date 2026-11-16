@@ -1,0 +1,3 @@
+name: Mendy Goldin
+start: 88
+minutes: 12.27 
